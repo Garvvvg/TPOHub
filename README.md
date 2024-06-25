@@ -1,4 +1,4 @@
-# Training_and_Placement_Cell
+# Training and Placement Cell
 A placement cell website created specifically for admins to manage interviews of students, and allocate students to companies interviews.
 
 ## Features
