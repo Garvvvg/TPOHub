@@ -6,8 +6,7 @@ A placement cell website created specifically for admins to manage interviews of
 - Add student
 - Delete student
 - Update user profile
-- Allocate added student to the interview
-- Deallocate the student from interview
+- Allocate added student to the interview and Deallocate the student from the interview
 - Download the CSV report
 
 ## TechStack
