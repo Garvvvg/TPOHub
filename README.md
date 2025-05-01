@@ -14,5 +14,5 @@ A placement cell website created specifically for admins to manage interviews of
 - EJS
 - Node.js
 - Express.js
-- MongoDB  
+- Mongo DB 
   
