@@ -35,16 +35,16 @@
 
 ## Run Locally
 
-Clone this repository.
+**Clone this repository.**
 
 git clone https://github.com/Garvvvg/TPOHub
-cd TPOHub
+ cd TPOHub
 
-Install dependencies.
+**Install dependencies.**
 
 npm install
 
-Start Development server.
+**Start Development server.**
 
 npm start
 
