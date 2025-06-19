@@ -35,16 +35,24 @@
 
 ## Run Locally
 
-**Clone this repository.**
+1. Clone this repository.
 
-git clone https://github.com/Garvvvg/TPOHub
- cd TPOHub
+   ```bash
+   git clone https://github.com/Garvvvg/TPOHub
+   
+   cd TPOHub
 
-**Install dependencies.**
+   ```
 
-npm install
+2. Install dependencies.
 
-**Start Development server.**
+   ```bash
+   npm install
 
-npm start
+   ```
+
+3. Start Development server.
+   ```bash
+   npm start
+   ```
 
